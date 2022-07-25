@@ -4,8 +4,8 @@
   <p align="center">Gametech STMM Game Developer Roadmap (*prototype)<p>
   <p align="center">
     <img src="https://img.shields.io/github/license/wewnumam/gtstmm-gamedev-roadmap?style=for-the-badge" alt="license" />
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC2MC0Ly4XzJeeZwaQnttPhA?label=Youtube%20Subsriber&style=for-the-badge" alt="yt-subs"/>
-    <img src="https://img.shields.io/youtube/channel/views/UC2MC0Ly4XzJeeZwaQnttPhA?label=Youtube%20views&style=for-the-badge" alt="yt-views"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC2MC0Ly4XzJeeZwaQnttPhA?label=Youtube%20Subscribers&style=for-the-badge" alt="yt-subs"/>
+    <img src="https://img.shields.io/youtube/channel/views/UC2MC0Ly4XzJeeZwaQnttPhA?label=Youtube%20Views&style=for-the-badge" alt="yt-views"/>
     <img src="https://img.shields.io/discord/342382056158003200?label=Discord&style=for-the-badge" alt="server"/>
   </p>
 </p>
