@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./img/gt-logo.png" height="128">
-  <h2 align="center">Dummy Roadmap</h2>
-  <p align="center">Gametech STMM Game Developer Roadmap (*prototype)<p>
+  <h2 align="center">Game Developer Roadmap (*dummy)</h2>
+  <p align="center">by HIMA Gametech STMM MMTC Yogyakarta<p>
   <p align="center">
     <img src="https://img.shields.io/github/license/wewnumam/gtstmm-gamedev-roadmap?style=for-the-badge" alt="license" />
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2MC0Ly4XzJeeZwaQnttPhA?label=Youtube%20Subscribers&style=for-the-badge" alt="yt-subs"/>
@@ -12,7 +12,8 @@
 
 ---
 
-Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai panduan belajar mengenai studi game di STMM. Terdapat 3 (untuk saat ini) alur studi game berdasarkan job desk dalam pengembangan game yaitu [Game Design](#gd), [Game Programming](#gp), dan [Visual Art](#va).
+Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai panduan belajar mengenai studi game di STMM. Terdapat 3 (untuk saat ini) alur studi game berdasarkan job desk dalam pengembangan game yaitu [Game Design](#gd), [Game Programming](#gp), dan [Visual Art](#va). Roadmap ini terinspirasi dari [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) dan [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap).
+
 
 ---
 
@@ -73,9 +74,30 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 
 ---
 
-## Referensi
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap)
+## Sumber Belajar
+
+### Game Design
+
+Judul | Kreator | URL | Deskripsi
+--- | --- | --- | --- 
+Art of Game Design | Jesse Schell | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
+Game Studies | gamestudies.org | [Link]() |  Jurnal internasional penelitian permainan komputer
+
+
+### Game Programming
+Judul | Kreator | URL | Deskripsi
+--- | --- | --- | --- 
+Math for Game Developer | Jorge Rodriguez | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Playlist topik-topik matematika dalam pengembangan game
+C# Full Course | Bro Code | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
+Design Patterns | Refactoring Guru | [Link](https://refactoring.guru/design-patterns) | Solusi khas untuk masalah umum dalam desain perangkat lunak
+Game Programming Patterns | Bob Nystrom | [Link](https://gameprogrammingpatterns.com/contents.html) | Kumpulan pola di game untuk membuat kode lebih bersih, lebih mudah dipahami, dan lebih cepat
+
+### Visual Art
+
+Judul | Kreator | URL | Deskripsi
+--- | --- | --- | --- 
+Lospec | Lospec | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
+Pixel Art Guideline | studiominiboss.com | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
 
 ## Lisensi
 Lihat [file lisensi](./LICENSE) untuk lebih detailnya.

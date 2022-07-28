@@ -9,7 +9,7 @@
 
 ---
 
-## Aestetics
+## Aesthetics
 <details>
     <summary>Click to expand</summary>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 3D Modeling
+## 3D Modelling
 
 <details>
     <summary>Click to expand</summary>
