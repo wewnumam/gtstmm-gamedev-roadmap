@@ -78,26 +78,31 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 
 ### Game Design
 
-Judul | Kreator | URL | Deskripsi
---- | --- | --- | --- 
-Art of Game Design | Jesse Schell | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
-Game Studies | gamestudies.org | [Link]() |  Jurnal internasional penelitian permainan komputer
-
+Judul | Kreator | Media | URL | Deskripsi
+--- | --- | --- | --- | ---
+Games Crash Course | Crash Course | `Video` | [Link](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) | Sejarah permainan dan melacak bagaimana pengaruhnya dalam olahraga, permainan papan, dan video game saat ini
+The Art of Game Design | Jesse Schell | `Buku`, `Artikel` | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
+Game Accessibility Guidelines | Collaborative Effort | `Artikel` | [Link](https://gameaccessibilityguidelines.com/) | Referensi langsung untuk desain game inklusif
+Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202) |  Jurnal internasional penelitian permainan komputer
+Design Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbjN6TTMo6toJfByWpKvEDH) | Kumpulan presentasi oleh pembicara di GDC
+Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
 
 ### Game Programming
-Judul | Kreator | URL | Deskripsi
---- | --- | --- | --- 
-Math for Game Developer | Jorge Rodriguez | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Playlist topik-topik matematika dalam pengembangan game
-C# Full Course | Bro Code | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
-Design Patterns | Refactoring Guru | [Link](https://refactoring.guru/design-patterns) | Solusi khas untuk masalah umum dalam desain perangkat lunak
-Game Programming Patterns | Bob Nystrom | [Link](https://gameprogrammingpatterns.com/contents.html) | Kumpulan pola di game untuk membuat kode lebih bersih, lebih mudah dipahami, dan lebih cepat
+Judul | Kreator | Media | URL | Deskripsi
+--- | --- | --- | --- | ---
+Game Programming Tutorials | freecodecamp.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) | Kumpulan tutorial pembuatan game dengan teknologi tertentu
+Math for Game Developer | Jorge Rodriguez | `Video` | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Playlist topik-topik matematika dalam pengembangan game
+C# Full Course | Bro Code | `Video` | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
+Design Patterns | Refactoring Guru | `Artikel` | [Link](https://refactoring.guru/design-patterns) | Solusi khas untuk masalah umum dalam desain perangkat lunak
+Game Programming Patterns | Bob Nystrom | `Buku`, `Artikel` | [Link](https://gameprogrammingpatterns.com/contents.html) | Kumpulan pola di game untuk membuat kode lebih bersih, lebih mudah dipahami, dan lebih cepat
 
 ### Visual Art
 
-Judul | Kreator | URL | Deskripsi
---- | --- | --- | --- 
-Lospec | Lospec | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
-Pixel Art Guideline | studiominiboss.com | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
+Judul | Kreator | Media | URL | Deskripsi
+--- | --- | --- | --- | ---
+So You Wanna Make Games? | Riot Games | `Video` | [Link](https://www.youtube.com/playlist?list=PL42m9XiTqPHIJbQZgzDhCyXtMOKNMrRno) | Pengantar bagi pemula untuk menjadi visual artist
+Lospec | Lospec | `Artikel` | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
+Pixel Art Guideline | studiominiboss.com | `Artikel` | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
 
 ## Lisensi
 Lihat [file lisensi](./LICENSE) untuk lebih detailnya.
