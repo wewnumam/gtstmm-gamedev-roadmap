@@ -67,7 +67,7 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
   <p align="center">
     <img src="img/visual-art-roadmap.jpg" alt="game-design-map"/>
   </p>
-  <p align="center"><a href="https://id.pinterest.com/pin/33565959711847121/">...</a><p>
+  <p align="center">...</a><p>
 </p>
 
 *Visual Art* atau desain seni video game, adalah bagian dari pengembangan game yang melibatkan proses penciptaan aspek artistik untuk video game. Desain seni video game dimulai pada fase pra-produksi pembuatan video game. Seniman video game adalah seniman visual yang terlibat dari konsep permainan yang membuat sketsa kasar dari karakter, latar, objek, dll. [Selengkapnya ...](./visual-art.md)
@@ -75,6 +75,7 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 ---
 
 ## Sumber Belajar
+Berikut beberapa rekomendasi sumber belajar yang dapat mendukung pembelajaran mandiri Anda.
 
 ### Game Design
 
@@ -82,7 +83,7 @@ Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 Games Crash Course | Crash Course | `Video` | [Link](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) | Sejarah permainan dan melacak bagaimana pengaruhnya dalam olahraga, permainan papan, dan video game saat ini
 The Art of Game Design | Jesse Schell | `Buku`, `Artikel` | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
-Video Game Analysis | The Game Overnalyser | `Video` | [Link](https://www.youtube.com/playlist?list=PL3Oap-xmdQ_AEDwM2nBZ7gkweRN7qsmc1) |Memahami alasan mengapa kami menyukai game yang kita mainkan
+Video Game Analysis | The Game Overnalyser | `Video` | [Link](https://www.youtube.com/playlist?list=PL3Oap-xmdQ_AEDwM2nBZ7gkweRN7qsmc1) | Memahami alasan mengapa kita menyukai game yang kita mainkan
 Developing | Game Maker's Toolkit | `Video` | [Link](https://www.youtube.com/playlist?list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n) | Video blog mengenai proses pembuatan game
 Design Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbjN6TTMo6toJfByWpKvEDH) | Kumpulan presentasi oleh pembicara di GDC
 Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
@@ -91,10 +92,11 @@ Game Accessibility Guidelines | Collaborative Effort | `Artikel` | [Link](https:
 Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202) |  Jurnal internasional penelitian permainan komputer
 
 ### Game Programming
+
 Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 Game Programming Tutorials | freecodecamp.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) | Kumpulan tutorial pembuatan game dengan teknologi tertentu
-Unity Beginner Tutorials | Brackeys | `Video` | [Link] | Seri video tutorial Unity bagi pemula
+Unity Beginner Tutorials | Brackeys | `Video` | [Link](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) | Seri video tutorial Unity bagi pemula
 Git & Github | Web Programming UNPAS | `Video` | [Link](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) | Seri video penggunaan version control system
 Math for Game Developer | Jorge Rodriguez | `Video` | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Seri video matematika dalam pengembangan game
 C# Full Course | Bro Code | `Video` | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
@@ -114,7 +116,10 @@ Pixel Art Guideline | studiominiboss.com | `Artikel` | [Link](https://blog.studi
 Blender Fundamentals 2.8 | Blender | `Video` | [Link](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) | Seri video official Blender 2.8
 Blender Secrets - Modeling | Blender Secrets | `Video` | [Link](https://www.youtube.com/playlist?list=PLrB1kuJIjcg7LoWhvpwllq58DXWOZhP8K) | Seri video teknik 3d modeling menggunakan Blender
 
+---
+
 ## Diagram Roadmap
+
 Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan diagram roadmap di:
 
 - [Game Design](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=game-design-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1zMH8_oe8hCYYe2fJHgTRMEDKGmfEJFrZ%26export%3Ddownload)
@@ -123,3 +128,9 @@ Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan
 
 ## Lisensi
 Lihat [file lisensi](./LICENSE) untuk lebih detailnya.
+
+## Dukung Kami
+...
+
+## Kontak
+...
