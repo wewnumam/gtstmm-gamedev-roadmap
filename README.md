@@ -25,16 +25,12 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 
 <p align="center">
   <p align="center">
-    <img src="img/game-design-roadmap.jpg" alt="game-design-map"/>
+    <img src="https://i.imgur.com/I2vhH6h.jpg" alt="game-design-map"/>
   </p>
   <p align="center">...<p>
 </p>
 
-*Game Design* adalah seni menerapkan desain dan estetika untuk membuat game untuk hiburan atau untuk tujuan pendidikan, latihan, atau eksperimen. Semakin hari, elemen dan prinsip desain game juga diterapkan pada interaksi lain, dalam bentuk gamifikasi. Perancang dan pengembang game Robert Zubek mendefinisikan desain game dengan memecahnya menjadi elemen-elemennya, yang menurutnya adalah sebagai berikut:
-
-- *Gameplay*, yang merupakan interaksi antara pemain dan mekanisme dan sistem
-- *Mechanics and systems*, yang merupakan aturan dan objek dalam game
-- *Player experience*, yang dirasakan pengguna saat mereka memainkan game
+*Game Design* adalah seni menerapkan desain dan estetika untuk membuat game untuk hiburan atau untuk tujuan pendidikan, latihan, atau eksperimen. Semakin hari, elemen dan prinsip desain game juga diterapkan pada interaksi lain, dalam bentuk gamifikasi.
 
 [Selengkapnya ...](./game-design.md)
 
@@ -48,12 +44,12 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 
 <p align="center">
   <p align="center">
-    <img src="img/game-programming-roadmap.jpg" alt="game-programming-map"/>
+    <img src="https://i.imgur.com/3WvcOw0.jpg" alt="game-programming-map"/>
   </p>
   <p align="center">...</a><p>
 </p>
 
-*Game Programming*, merupakan salah satu bagian dari bidang pengembangan game yang bekerja dalam pengembangan perangkat lunak dari video game. Pemrograman game membutuhkan keterampilan substansial dalam rekayasa perangkat lunak dan pemrograman komputer dalam bahasa tertentu, serta spesialisasi dalam satu atau lebih bidang berikut: simulasi, grafik komputer, kecerdasan buatan, fisika, pemrograman audio, dan input. Untuk permainan multipemain, pengetahuan tentang pemrograman jaringan diperlukan. [Selengkapnya ...](./game-programming.md)
+*Game Programming*, merupakan pengembangan perangkat lunak video game. Pemrograman game membutuhkan keterampilan substansial dalam rekayasa perangkat lunak dan pemrograman komputer dalam bahasa tertentu, serta spesialisasi dalam satu atau lebih bidang berikut: simulasi, grafik komputer, kecerdasan buatan, fisika, pemrograman audio, dan input. Untuk permainan multipemain, pengetahuan tentang pemrograman jaringan diperlukan. [Selengkapnya ...](./game-programming.md)
 
 ---
 
@@ -65,7 +61,7 @@ Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai p
 
 <p align="center">
   <p align="center">
-    <img src="img/visual-art-roadmap.jpg" alt="game-design-map"/>
+    <img src="https://i.imgur.com/FLehbuO.jpg" alt="game-design-map"/>
   </p>
   <p align="center">...</a><p>
 </p>
