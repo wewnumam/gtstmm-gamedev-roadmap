@@ -14,6 +14,19 @@
 
 Sebuah roadmap yang ditujukan bagi mahasiswa Prodi Teknologi Permainan sebagai panduan belajar mengenai studi game di STMM. Terdapat 3 (untuk saat ini) alur studi game berdasarkan job desk dalam pengembangan game yaitu [Game Design](#gd), [Game Programming](#gp), dan [Visual Art](#va). Roadmap ini terinspirasi dari [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) dan [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap).
 
+Table of contents
+- [Game Design](#game-design)
+- [Game Programming](#game-programming)
+- [Visual Art](#visual-art)
+- [Sumber Belajar](#sumber-belajar)
+  - [Game Design](#game-design-1)
+  - [Game Programming](#game-programming-1)
+  - [Visual Art](#visual-art-1)
+- [Diagram Roadmap](#diagram-roadmap)
+- [Lisensi](#lisensi)
+- [Dukung Kami](#dukung-kami)
+- [Kontak](#kontak)
+
 
 ---
 
@@ -79,11 +92,14 @@ Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 Games Crash Course | Crash Course | `Video` | [Link](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) | Sejarah permainan dan melacak bagaimana pengaruhnya dalam olahraga, permainan papan, dan video game saat ini
 The Art of Game Design | Jesse Schell | `Buku`, `Artikel` | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
+Elements of Game Design | Robert Zubek | `Buku` | [Link](https://books.google.co.id/books?id=0s_tDwAAQBAJ&hl=id) |  Pengantar konsep dasar desain game, dengan fokus pada teknik yang digunakan dalam produksi game komersial
 Video Game Analysis | The Game Overnalyser | `Video` | [Link](https://www.youtube.com/playlist?list=PL3Oap-xmdQ_AEDwM2nBZ7gkweRN7qsmc1) | Memahami alasan mengapa kita menyukai game yang kita mainkan
 Developing | Game Maker's Toolkit | `Video` | [Link](https://www.youtube.com/playlist?list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n) | Video blog mengenai proses pembuatan game
 Design Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbjN6TTMo6toJfByWpKvEDH) | Kumpulan presentasi oleh pembicara di GDC
 Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
 Extra Credits: Game Design | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX) | Pembicaraan perihal desain game
+Game Feel | Steve Swink | `Buku` | [Link](http://www.game-feel.com/) |  Panduan desainer game untuk sensasi virtual
+The Design of Everday Things | Donald Norman | `Buku` | [Link](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) | Fungsi desain sebagai komunikasi dan bagaimana mengoptimalkan saluran komunikasi itu untuk membuat pengalaman menggunakan objek itu menyenangkan
 Game Accessibility Guidelines | Collaborative Effort | `Artikel` | [Link](https://gameaccessibilityguidelines.com/) | Referensi langsung untuk desain game inklusif
 Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202) |  Jurnal internasional penelitian permainan komputer
 
@@ -109,6 +125,8 @@ So You Wanna Make Games? | Riot Games | `Video` | [Link](https://www.youtube.com
 Lospec | Lospec | `Artikel` | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
 Graphic Design | gcflearnfree.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ) | Seri video dasar desain grafis
 Pixel Art Guideline | studiominiboss.com | `Artikel` | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
+Game Artist | Random Guy on Youtube | `Video` | [Link](https://www.youtube.com/playlist?list=PLjQvLl-CzBWblQueHHMfUslCqkHvVxc6j) | Kumpulan video terkait game artist
+The Animator's Survival Kit | Richard Williams | `Buku` | [Link](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit) | Metode manual, prinsip, rumus klasik, game, stop motion, dan animator internet
 Blender Fundamentals 2.8 | Blender | `Video` | [Link](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) | Seri video official Blender 2.8
 Blender Secrets - Modeling | Blender Secrets | `Video` | [Link](https://www.youtube.com/playlist?list=PLrB1kuJIjcg7LoWhvpwllq58DXWOZhP8K) | Seri video teknik 3d modeling menggunakan Blender
 
@@ -126,7 +144,9 @@ Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan
 Lihat [file lisensi](./LICENSE) untuk lebih detailnya.
 
 ## Dukung Kami
-...
+
+- Donasi
+- Kontribusi
 
 ## Kontak
 ...
