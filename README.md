@@ -18,11 +18,11 @@ Table of contents
 - [Game Design](#game-design)
 - [Game Programming](#game-programming)
 - [Visual Art](#visual-art)
+- [Diagram Roadmap](#diagram-roadmap)
 - [Sumber Belajar](#sumber-belajar)
   - [Game Design](#game-design-1)
   - [Game Programming](#game-programming-1)
   - [Visual Art](#visual-art-1)
-- [Diagram Roadmap](#diagram-roadmap)
 - [Lisensi](#lisensi)
 - [Dukung Kami](#dukung-kami)
 - [Kontak](#kontak)
@@ -74,7 +74,7 @@ Table of contents
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/FLehbuO.jpg" alt="game-design-map"/>
+    <img src="https://i.imgur.com/yR1tZGZ.jpg" alt="game-design-map"/>
   </p>
   <p align="center">...</a><p>
 </p>
@@ -83,6 +83,16 @@ Table of contents
 
 ---
 
+## Diagram Roadmap
+
+Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan diagram roadmap di:
+
+- [Game Design](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=game-design-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1zMH8_oe8hCYYe2fJHgTRMEDKGmfEJFrZ%26export%3Ddownload)
+- [Game Programming](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=game-programming-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1u5DAR5pJPg4FAOOTXMnwAmHpWJCl6UFo%26export%3Ddownload)
+- [Visual Art](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=visual-art-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1a8vRh4LrGf4XEHG1XrubhJVlmuXswWGP%26export%3Ddownload)
+
+
+---
 ## Sumber Belajar
 Berikut beberapa rekomendasi sumber belajar yang dapat mendukung pembelajaran mandiri Anda.
 
@@ -131,14 +141,6 @@ Blender Fundamentals 2.8 | Blender | `Video` | [Link](https://www.youtube.com/pl
 Blender Secrets - Modeling | Blender Secrets | `Video` | [Link](https://www.youtube.com/playlist?list=PLrB1kuJIjcg7LoWhvpwllq58DXWOZhP8K) | Seri video teknik 3d modeling menggunakan Blender
 
 ---
-
-## Diagram Roadmap
-
-Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan diagram roadmap di:
-
-- [Game Design](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=game-design-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1zMH8_oe8hCYYe2fJHgTRMEDKGmfEJFrZ%26export%3Ddownload)
-- [Game Programming](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=game-programming-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1u5DAR5pJPg4FAOOTXMnwAmHpWJCl6UFo%26export%3Ddownload)
-- [Visual Art](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=visual-art-roadmap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1a8vRh4LrGf4XEHG1XrubhJVlmuXswWGP%26export%3Ddownload)
 
 ## Lisensi
 Lihat [file lisensi](./LICENSE) untuk lebih detailnya.
