@@ -20,6 +20,7 @@ Table of contents
 - [Visual Art](#visual-art)
 - [Diagram Roadmap](#diagram-roadmap)
 - [Sumber Belajar](#sumber-belajar)
+  - [Berkarir di Industri Game](#berkarir-di-industri-game)
   - [Game Design](#game-design-1)
   - [Game Programming](#game-programming-1)
   - [Visual Art](#visual-art-1)
@@ -38,12 +39,18 @@ Table of contents
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/I2vhH6h.jpg" alt="game-design-map"/>
+    <img src="https://i.imgur.com/lBvMA6l.jpg" alt="game-design-map"/>
   </p>
   <p align="center">...<p>
 </p>
 
-*Game Design* adalah seni menerapkan desain dan estetika untuk membuat game untuk hiburan atau untuk tujuan pendidikan, latihan, atau eksperimen. Semakin hari, elemen dan prinsip desain game juga diterapkan pada interaksi lain, dalam bentuk gamifikasi.
+Seorang game designer bertanggung jawab untuk merancang dan mengembangkan konsep game, termasuk mekanisme gameplay, cerita, dan karakter. 
+
+Mereka juga bertanggung jawab untuk menciptakan dokumen desain yang menjelaskan bagaimana game tersebut harus dimainkan dan terlihat. 
+
+Game designer sering bekerja sama dengan tim lain seperti artist, programmer, dan produser untuk memastikan bahwa game tersebut terlihat dan terasa seperti yang diharapkan. 
+
+Game designer juga harus terus memantau dan mengevaluasi game saat dikembangkan untuk memastikan bahwa itu terus sesuai dengan rencana awal dan memenuhi tujuan yang telah ditetapkan.
 
 [Selengkapnya ...](./game-design.md)
 
@@ -62,7 +69,13 @@ Table of contents
   <p align="center">...</a><p>
 </p>
 
-*Game Programming*, merupakan pengembangan perangkat lunak video game. Pemrograman game membutuhkan keterampilan substansial dalam rekayasa perangkat lunak dan pemrograman komputer dalam bahasa tertentu, serta spesialisasi dalam satu atau lebih bidang berikut: simulasi, grafik komputer, kecerdasan buatan, fisika, pemrograman audio, dan input. Untuk permainan multipemain, pengetahuan tentang pemrograman jaringan diperlukan. [Selengkapnya ...](./game-programming.md)
+Secara sederhana, tanggung jawab seorang game programmer adalah menulis kode yang mengatur segala sesuatu yang terjadi dalam game. Ini termasuk mekanisme gameplay, interaksi dengan karakter, dan efek visual. 
+
+Mereka menggunakan bahasa pemrograman untuk menulis kode ini dan bekerja sama dengan tim lain seperti game designer dan artist untuk memastikan bahwa game terlihat dan terasa seperti yang diharapkan. 
+
+Game programmer juga bertanggung jawab untuk menyiapkan dan mengelola alat yang diperlukan untuk mengembangkan game, serta memahami bagaimana cara game bekerja dan bagaimana cara mengelola kinerja game.
+
+[Selengkapnya ...](./game-programming.md)
 
 ---
 
@@ -79,7 +92,15 @@ Table of contents
   <p align="center">...</a><p>
 </p>
 
-*Visual Art* atau desain seni video game, adalah bagian dari pengembangan game yang melibatkan proses penciptaan aspek artistik untuk video game. Desain seni video game dimulai pada fase pra-produksi pembuatan video game. Seniman video game adalah seniman visual yang terlibat dari konsep permainan yang membuat sketsa kasar dari karakter, latar, objek, dll. [Selengkapnya ...](./visual-art.md)
+Seorang visual artist dalam pengembangan game bertanggung jawab untuk menciptakan aset visual yang akan digunakan dalam game, seperti karakter, latar belakang, efek, dan item. 
+
+Mereka menggunakan perangkat lunak seperti Adobe Photoshop atau Blender untuk menciptakan aset yang akan diterapkan ke dalam game. 
+
+Visual artist juga harus memastikan bahwa aset yang diciptakan sesuai dengan desain dan estetika yang diinginkan, serta memastikan bahwa aset tersebut sesuai dengan spesifikasi teknis yang dibutuhkan oleh game. 
+
+Visual artist sering bekerja sama dengan tim lain seperti game designer dan game programmer untuk memastikan bahwa game tersebut terlihat dan terasa seperti yang diharapkan. 
+
+[Selengkapnya ...](./visual-art.md)
 
 ---
 
@@ -96,19 +117,30 @@ Diagram dibuat menggunakan [drawio](https://app.diagrams.net/). Dapatkan salinan
 ## Sumber Belajar
 Berikut beberapa rekomendasi sumber belajar yang dapat mendukung pembelajaran mandiri Anda.
 
+### Berkarir di Industri Game
+Judul | Kreator | Media | URL | Deskripsi
+--- | --- | --- | --- | ---
+Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
+Press Start | Goethe-Institut Indonesien | `Video` | [Link](https://www.youtube.com/playlist?list=PL4cwFekjrnxe4GJpuCbed6XHvnw0O0TmQ) | Perbincangan seputar industri game
+Game Industry Career Guide | Jason W. Bay | `Artikel` | [Link](https://www.gameindustrycareerguide.com/) | Pekerjaan video game dan resource karier Anda
+Career Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTba0iN9wm6k-SfVsQHjeuNxz) | Kumpulan presentasi oleh pembicara di GDC
+Extra Credits: Game Career | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A) | Pembicaraan perihal karir game
+Extra Credits: Game Industry | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BjqBfCTq5pgJsSFZShCxSU) | Pembicaraan perihal industri game
+The Complete Software Developer's Career Guide | John Sonmez | `Buku` | [Link](hhttps://simpleprogrammer.com/products/careerguide/) | Panduan karier lengkap pengembang perangkat lunak
+
+
 ### Game Design
 
 Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 Games Crash Course | Crash Course | `Video` | [Link](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) | Sejarah permainan dan melacak bagaimana pengaruhnya dalam olahraga, permainan papan, dan video game saat ini
+Introduction to Game Design Theory | John Haste | `Video` | [Link](https://www.udemy.com/course/welcome-to-game-design-introduction-to-game-theory/) | Temukan peran game ideal Anda di nndustri game sambil belajar tentang semua bidang.
+The Board Game Desiger's Guide | Joe Slack | `Buku` | [Link](https://boardgamedesigncourse.com/bgdc-home/designers-guide/) | Temukan cara membuat game Anda sendiri
 The Art of Game Design | Jesse Schell | `Buku`, `Artikel` | [Link](https://deck.artofgamedesign.com/) | Buku berisi dasar-dasar merancang game dari bermacam perspektif
-Elements of Game Design | Robert Zubek | `Buku` | [Link](https://books.google.co.id/books?id=0s_tDwAAQBAJ&hl=id) |  Pengantar konsep dasar desain game, dengan fokus pada teknik yang digunakan dalam produksi game komersial
 Video Game Analysis | The Game Overnalyser | `Video` | [Link](https://www.youtube.com/playlist?list=PL3Oap-xmdQ_AEDwM2nBZ7gkweRN7qsmc1) | Memahami alasan mengapa kita menyukai game yang kita mainkan
 Developing | Game Maker's Toolkit | `Video` | [Link](https://www.youtube.com/playlist?list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n) | Video blog mengenai proses pembuatan game
 Design Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbjN6TTMo6toJfByWpKvEDH) | Kumpulan presentasi oleh pembicara di GDC
-Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
 Extra Credits: Game Design | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX) | Pembicaraan perihal desain game
-Game Feel | Steve Swink | `Buku` | [Link](http://www.game-feel.com/) |  Panduan desainer game untuk sensasi virtual
 The Design of Everday Things | Donald Norman | `Buku` | [Link](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) | Fungsi desain sebagai komunikasi dan bagaimana mengoptimalkan saluran komunikasi itu untuk membuat pengalaman menggunakan objek itu menyenangkan
 Game Accessibility Guidelines | Collaborative Effort | `Artikel` | [Link](https://gameaccessibilityguidelines.com/) | Referensi langsung untuk desain game inklusif
 Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202) |  Jurnal internasional penelitian permainan komputer
@@ -117,8 +149,10 @@ Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202)
 
 Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
+Unity Learn | Unity | `Video`, `Artikel` | [Link](https://learn.unity.com/) | Belajar pengembangan game dengan Unity
 Game Programming Tutorials | freecodecamp.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) | Kumpulan tutorial pembuatan game dengan teknologi tertentu
 Unity Beginner Tutorials | Brackeys | `Video` | [Link](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) | Seri video tutorial Unity bagi pemula
+Gamedev Resources | What Up Games | `Artikel` | [Link](https://gamedev-resources.com/) | Tutorial pengembangan game yang mudah diikuti dan resource yang bermanfaat
 Git & Github | Web Programming UNPAS | `Video` | [Link](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) | Seri video penggunaan version control system
 Math for Game Developer | Jorge Rodriguez | `Video` | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Seri video matematika dalam pengembangan game
 C# Full Course | Bro Code | `Video` | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
@@ -132,11 +166,14 @@ Code Complete | Steve McCinnell | `Buku` | [Link](https://www.oreilly.com/librar
 Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 So You Wanna Make Games? | Riot Games | `Video` | [Link](https://www.youtube.com/playlist?list=PL42m9XiTqPHIJbQZgzDhCyXtMOKNMrRno) | Pengantar bagi pemula untuk menjadi visual artist
+Andrew Loomis Books | Andrew Loomis | `Buku` | [Link](https://archive.org/details/andrewloomiscreative.illustration) | Sedikit kompilasi Andrew Loomis untuk mempelajari dasar-dasar tentang cara menggambar.
 Lospec | Lospec | `Artikel` | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
 Graphic Design | gcflearnfree.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ) | Seri video dasar desain grafis
 Pixel Art Guideline | studiominiboss.com | `Artikel` | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
 Game Artist | Random Guy on Youtube | `Video` | [Link](https://www.youtube.com/playlist?list=PLjQvLl-CzBWblQueHHMfUslCqkHvVxc6j) | Kumpulan video terkait game artist
 The Animator's Survival Kit | Richard Williams | `Buku` | [Link](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit) | Metode manual, prinsip, rumus klasik, game, stop motion, dan animator internet
+Blender Beginner Donut Tutorial| Blender Guru| `Video` | [Link](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) | Pelajari dasar-dasar Blender sambil membuat donat Anda sendiri.
+The Hard Surface E-Book for Blender | Blender Bros | `Buku` | [Link](https://www.blenderbros.com/ebook) | Pelajari semua rahasia pemodelan hard surface di satu tempat!
 Blender Fundamentals 2.8 | Blender | `Video` | [Link](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) | Seri video official Blender 2.8
 Blender Secrets - Modeling | Blender Secrets | `Video` | [Link](https://www.youtube.com/playlist?list=PLrB1kuJIjcg7LoWhvpwllq58DXWOZhP8K) | Seri video teknik 3d modeling menggunakan Blender
 
