@@ -87,7 +87,7 @@ Game programmer juga bertanggung jawab untuk menyiapkan dan mengelola alat yang 
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/yR1tZGZ.jpg" alt="game-design-map"/>
+    <img src="https://i.imgur.com/Ypm7KuZ.jpg" alt="game-design-map"/>
   </p>
   <p align="center">...</a><p>
 </p>
