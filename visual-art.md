@@ -1,6 +1,16 @@
 # Visual Artist Roadmap
 
-Table of contents
+<table>
+  <tr>
+    <th>Roadmap</th>
+    <th>Table of contents</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/Ypm7KuZ.jpg" alt="visual-art-map"/>
+    </td>
+    <td>
+
 - [Visual Artist Roadmap](#visual-artist-roadmap)
 - [Semiotics](#semiotics)
   - [Signification](#signification)
@@ -110,6 +120,7 @@ Table of contents
     - [Mudbox](#mudbox)
     - [Substance Designer](#substance-designer)
     - [Substance Painter](#substance-painter)
+</table>
 
 # Semiotics
 
@@ -124,6 +135,10 @@ Semiotika adalah ilmu yang mempelajari tanda, simbol, dan makna. Sebagai seorang
 1. Penggunaan tanda dan simbol: Sebagai visual artist, Anda harus memahami bagaimana menggunakan tanda dan simbol secara efektif dalam game Anda. Ini termasuk pengetahuan tentang bagaimana menggunakan tanda dan simbol untuk memberikan petunjuk kepada pemain, menciptakan atmosfer dan suasana, dan menyampaikan informasi kepada pemain.
 
 1. Penggunaan warna: Warna memiliki makna yang berbeda-beda bagi setiap orang. Sebagai visual artist, Anda harus memahami bagaimana warna dapat digunakan secara efektif untuk menyampaikan makna dan menciptakan suasana dalam game Anda.
+
+Pelajari lebih lanjut:
+- [Ngaji Filsafat: Semiotika](https://www.youtube.com/playlist?list=PL4WN5OeL0n_Zh9MJbmIu65x54N95kVc3L)
+- ...
 
 ## Signification
 
@@ -190,6 +205,10 @@ Estetika adalah ilmu yang mempelajari tentang keindahan dan kesenangan yang diha
 1. Estetika dalam hubungan dengan target audiens: Estetika dapat mempengaruhi apakah sebuah game akan disenangi atau tidak oleh target audiens yang diinginkan. Sebagai visual artist, Anda harus memahami preferensi estetika dari target audiens yang diinginkan dan menciptakan estetika yang sesuai dengan preferensi tersebut.
 
 1. Estetika dalam hubungan dengan teknologi: Estetika dapat dipengaruhi oleh teknologi yang digunakan dalam game. Sebagai visual artist, Anda harus memahami bagaimana menciptakan estetika yang sesuai dengan batasan teknologi yang ada.
+
+Pelajari lebih lanjut:
+- [Ngaji Filsafat: Estetika](https://www.youtube.com/playlist?list=PL4WN5OeL0n_aVEMlZHoGdPEvmlCYzrhb0)
+- ...
 
 ## Domain
 
@@ -291,6 +310,10 @@ Drawing adalah seni yang membuat gambar atau lukisan dengan menggunakan medium s
 
 Memahami hal-hal tersebut akan membantu Anda dalam menciptakan aset visual yang indah dan tepat sasaran bagi pengembangan game. Selain itu, memahami teori dan prinsip-prinsip dasar drawing juga akan membantu Anda dalam mengambil keputusan yang tepat dalam menciptakan aset visual yang sesuai dengan tujuan dan kebutuhan proyek Anda.
 
+Pelajari lebih lanjut:
+- [Andrew Loomis Books](https://archive.org/details/andrewloomiscreative.illustration)
+- ...
+
 ## Technique
 
 ### Line
@@ -387,6 +410,10 @@ Anime style adalah style drawing yang mencoba menggambarkan objek atau figur den
 
 Pixel art style adalah style drawing yang mencoba menggambarkan objek atau figur dengan menggunakan pixel-pixel kecil. Pixel art style sering digunakan dalam game retro atau game yang mengutamakan elemen nostalgia.
 
+Pelajari lebih lanjut:
+- [Pixel Art Guideline](https://blog.studiominiboss.com/pixelart)
+- ...
+
 ### Etc
 
 Ini hanyalah beberapa contoh style drawing yang sering digunakan dalam pengembangan game. Ada banyak style drawing lain yang dapat digunakan sesuai dengan kebutuhan dan tujuan proyek. Sebagai seorang visual artist, penting bagi Anda untuk memahami dan mengembangkan kemampuan dalam berbagai style drawing agar dapat menciptakan aset visual yang sesuai dengan kebutuhan dan tujuan proyek yang Anda kerjakan.
@@ -421,7 +448,15 @@ Graphic design merupakan seni dan ilmu yang menggabungkan elemen visual seperti 
 
 Sebagai seorang visual artist, penting bagi Anda untuk memahami prinsip-prinsip dasar graphic design agar dapat menciptakan aset visual yang sesuai dengan kebutuhan dan tujuan proyek yang Anda kerjakan. 
 
+Pelajari lebih lanjut:
+- [Graphic Design by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ)
+- ...
+
 ## Color
+
+Pelajari lebih lanjut:
+- [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
+- ...
 
 ### Color Table
 
@@ -437,7 +472,11 @@ Color Psychology merupakan ilmu yang mempelajari bagaimana warna dapat mempengar
 
 ## Typography
 
-Typography merupakan seni menata dan mengatur huruf-huruf dalam sebuah desain agar terlihat estetis dan mudah dibaca. Berikut adalah penjelasan tentang bagian-bagian dari Typography:
+Typography merupakan seni menata dan mengatur huruf-huruf dalam sebuah desain agar terlihat estetis dan mudah dibaca. 
+
+Pelajari lebih lanjut:
+- [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
+- ...
 
 ### Form
 
@@ -456,6 +495,10 @@ Function merupakan tujuan dari penggunaan sebuah huruf dalam sebuah desain, term
 Composition merupakan cara menata elemen-elemen dalam sebuah desain agar terlihat estetis dan mudah dipahami oleh pemirsa.
 
 Memahami tentang Space dan Layout dalam composition akan membantu Anda dalam menciptakan aset visual yang lebih efektif dan sesuai dengan kebutuhan dan tujuan proyek yang Anda kerjakan. Dengan mengatur Space dan Layout secara tepat, Anda dapat menciptakan aset visual yang terstruktur, estetis, dan mudah dipahami oleh pemirsa.
+
+Pelajari lebih lanjut:
+- [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
+- ...
 
 ### Space
 
@@ -483,7 +526,9 @@ Game Assets merupakan aset-aset visual yang digunakan dalam pengembangan game un
 
 Sebagai seorang visual artist, memahami tentang macam-macam Game Assets akan membantu Anda dalam menciptakan aset visual yang sesuai dengan kebutuhan dan tujuan proyek yang Anda kerjakan.
 
-Berikut adalah penjelasan tentang macam-macam Game Assets:
+Pelajari lebih lanjut:
+- [So You Wanna Make Games?	by Riot Games](https://www.youtube.com/playlist?list=PL42m9XiTqPHIJbQZgzDhCyXtMOKNMrRno)
+- ...
 
 ### Character
 
@@ -588,6 +633,13 @@ Subdivision Surfaces merupakan technique yang menciptakan model 3D dengan menggu
 ### Blender
 
 Blender merupakan software 3D modeling yang dikembangkan oleh Blender Foundation. Blender merupakan software yang open source dan gratis, sehingga dapat diunduh dan digunakan oleh siapapun. Blender memiliki fitur-fitur yang lengkap dan mudah digunakan, sehingga cocok untuk pemula maupun yang sudah berpengalaman. Blender dapat digunakan untuk menciptakan model 3D, animasi, dan rendering.
+
+Pelajari lebih lanjut:
+- [Blender Beginner Donut Tutorial by	Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+- [The Hard Surface E-Book for Blender by	Blender Bros](https://www.blenderbros.com/ebook)
+- [Blender Fundamentals 2.8	by Blender](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+- [Blender Secrets - Modeling by Blender Secrets](https://www.youtube.com/playlist?list=PLrB1kuJIjcg7LoWhvpwllq58DXWOZhP8K)
+- ...
 
 ### Maya
 

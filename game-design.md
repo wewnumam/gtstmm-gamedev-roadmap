@@ -1,6 +1,16 @@
 # Game Designer Roadmap
 
-Table of contents
+<table>
+  <tr>
+    <th>Roadmap</th>
+    <th>Table of contents</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/lBvMA6l.jpg" alt="game-design-map"/>
+    </td>
+    <td>
+
 - [Game Designer Roadmap](#game-designer-roadmap)
 - [Designer](#designer)
   - [Technical Skill](#technical-skill)
@@ -67,32 +77,71 @@ Table of contents
     - [Product Vision](#product-vision)
     - [Agile Manifesto](#agile-manifesto)
     - [Risk Assessment](#risk-assessment)
+</table>
 
 # Designer
 
 ## Technical Skill
 
-Kemampuan teknis seorang desainer game bervariasi tergantung pada bidang yang mereka fokuskan.
+Kemampuan teknis seorang desainer game bisa berbeda-beda tergantung pada bidang yang mereka fokuskan dan proyek game yang sedang mereka kerjakan, dan ini akan menentukan bagaimana mereka bekerja.
 
 ### Writing
 
-Game designer harus mampu menciptakan dokumen desain yang menjelaskan bagaimana game tersebut harus dimainkan dan terlihat.
+Game designer harus mampu menciptakan dokumen desain yang menjelaskan bagaimana game tersebut harus dimainkan dan terlihat. seorang desainer game harus mampu menciptakan dokumen desain yang menjelaskan secara terperinci bagaimana game tersebut harus dimainkan dan terlihat. 
+
+Buku desain ini digunakan sebagai panduan bagi tim pengembang game untuk membuat game tersebut, sehingga setiap anggota tim memahami bagaimana game tersebut harus terlihat dan dimainkan.
+
+Pelajari lebih lanjut:
+- [Narrative Talks by GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbYD6zfuWTwz2nTfvKOZBWMe)
+- ...
 
 ### Project Management
 
-Desainer game harus mampu mengelola tim dan sumber daya untuk mencapai tujuan proyek dalam batas waktu yang ditentukan.
+Desainer game harus mampu mengelola tim dan sumber daya untuk mencapai tujuan proyek dalam batas waktu yang ditentukan. seorang desainer game harus mampu mengelola tim dan sumber daya dengan efektif untuk mencapai tujuan proyek dalam batas waktu yang ditentukan. Ini bisa meliputi beberapa tugas, seperti:
+
+- Menetapkan tujuan proyek yang jelas dan terukur, dan membuat rencana kerja yang terperinci untuk mencapainya.
+
+- Menjadi pemimpin tim, mengkoordinasikan aktivitas anggota tim, dan memastikan semuanya terorganisir dengan baik.
+
+- Mengelola sumber daya proyek, termasuk anggaran, tenaga kerja, dan peralatan yang dibutuhkan.
+
+- Menangani masalah yang muncul selama proyek berlangsung, dan mencari solusi yang efektif untuk memecahkan masalah tersebut.
+
+- Mengatur komunikasi antar tim, termasuk menyelenggarakan rapat, menyampaikan laporan progres, dan memastikan semua anggota tim memahami tujuan proyek dan bagaimana masing-masing dapat membantu mencapainya.
+
+Pelajari lebih lanjut:
+- [An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/learn/lecture/15773502?start=0#overview)
+- [Game Production By GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaPIwO2CqdEANtkYUDaQ6eQ)
+- [Notion for Game Designers | Full Template Walkthrough](https://www.youtube.com/watch?v=UrZujdobpEg)
+- ...
 
 ### Game Technology
 
-Desainer game harus memahami cara game bekerja dan bagaimana cara mengelola kinerja game sambil terus memperhatikan kualitas dan kelancaran game.
+Desainer game harus memahami cara game bekerja dan bagaimana cara mengelola kinerja game sambil terus memperhatikan kualitas dan kelancaran game. 
+
+Untuk mengelola kinerja game, seorang desainer game mungkin harus memahami bagaimana cara mengoptimalkan game agar berjalan dengan lancar di berbagai perangkat, atau bagaimana cara mengatasi masalah yang mungkin muncul selama pemain memainkan game tersebut. Mereka juga mungkin harus terus memantau dan menganalisis data game untuk mengetahui bagaimana game tersebut dimainkan dan mencari cara untuk meningkatkan kualitas dan kelancaran game tersebut.
+
+Pelajari lebih lanjut:
+- [How Game Designers Solved These 11 Problems](https://www.youtube.com/watch?v=rJZyPdYIbZI)
+- ...
 
 ### Marketing
 
-Desainer game harus memahami bagaimana cara menjual game kepada audiens yang tepat dan bagaimana cara mengelola strategi pemasaran yang efektif.
+Desainer game harus memahami bagaimana cara menjual game kepada audiens yang tepat dan bagaimana cara mengelola strategi pemasaran yang efektif. Ini termasuk menentukan target pasar yang tepat, mengembangkan konsep pemasaran yang sesuai dengan audiens tersebut, dan bekerja sama dengan tim pemasaran untuk menyusun dan mengeksekusi rencana pemasaran yang efektif. Selain itu, desainer game juga harus memperhatikan aspek-aspek seperti harga, distribusi, dan promosi game, serta mencari cara untuk meningkatkan visibilitas game di pasar.
+
+Pelajari lebih lanjut:
+- [Marketing Talks by GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbZkUdVQD0zM3QEyoHhrl_1U)
+- ...
 
 ### Budgeting
 
-Desainer game harus mampu mengelola anggaran proyek dengan baik untuk memastikan bahwa proyek tersebut dapat diselesaikan dalam batas waktu dan anggaran yang telah ditentukan.
+Desainer game harus mampu mengelola anggaran proyek dengan baik untuk memastikan bahwa proyek tersebut dapat diselesaikan dalam batas waktu dan anggaran yang telah ditentukan.  Ini termasuk menetapkan anggaran awal yang sesuai untuk proyek tersebut, mengelola pengeluaran selama proyek berlangsung, dan memonitor progres anggaran secara teratur untuk memastikan bahwa proyek tetap dalam batas anggaran yang telah ditentukan. 
+
+Selain itu, desainer game juga harus mampu mengambil keputusan yang tepat ketika menghadapi pilihan yang berkaitan dengan anggaran, seperti memprioritaskan item-item yang paling penting, atau mencari cara untuk menghemat biaya di area-area lain.
+
+Pelajari lebih lanjut:
+- [The Personal MBA Book by Josh Kaufman](https://joshkaufman.net/launch-the-personal-mba-book/)
+- ...
 
 ## Soft Skill
 
@@ -104,6 +153,10 @@ Bagi seorang game designer, kemampuan mendengar sangat penting karena mereka har
 
 Selain itu, kemampuan mendengar juga penting untuk memastikan bahwa game designer dapat bekerja sama dengan tim lain secara efektif. Dengan memahami dan menghargai ide dan masukan yang diberikan oleh tim lain, game designer dapat membangun tim yang solid dan terintegrasi yang akan bekerja sama dengan efektif untuk mengembangkan game yang sukses.
 
+Pelajari lebih lanjut:
+- [Listening by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt9_Z6Rugq9gGlMByk0Qv84M)
+- ...
+
 ### Cooperative
 
 Game designer harus mampu bekerja sama dengan tim yang terdiri dari berbagai profesi seperti game programmer, visual artist, dan produser untuk memastikan bahwa game tersebut terlihat dan terasa seperti yang diharapkan.
@@ -111,6 +164,10 @@ Game designer harus mampu bekerja sama dengan tim yang terdiri dari berbagai pro
 Game designer harus mampu bekerja sama dengan tim lain secara efektif untuk mencapai tujuan proyek yang telah ditetapkan. Ini termasuk memahami tugas masing-masing anggota tim dan bagaimana cara bekerja sama dengan mereka untuk mencapai tujuan bersama.
 
 Game designer harus mampu menjadi bagian dari tim yang terintegrasi dengan memahami tujuan dan visi tim, serta memahami peran masing-masing anggota tim dalam mencapai tujuan tersebut.
+
+Pelajari lebih lanjut:
+- [Work Skills by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt8f1RccwvIiBkVfuoQLqc0Y)
+- ...
 
 ### Root Cause Analysis
 
@@ -121,6 +178,12 @@ Bagi seorang game designer, root cause analysis dapat digunakan untuk mengidenti
 Misalnya, jika game tersebut mengalami bug atau crash, game designer dapat menggunakan root cause analysis untuk mengidentifikasi penyebab utama masalah tersebut. Ini bisa dilakukan dengan cara mengevaluasi dokumen desain game, menganalisis log error, atau melakukan tes untuk mengidentifikasi masalah yang mendasar. 
 
 Setelah mengidentifikasi penyebab utama masalah, game designer dapat mengembangkan solusi yang sesuai untuk mengatasinya.
+
+Pelajari lebih lanjut:
+- [Critical Thinking by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt-n_Z4cEgzIi1fMWblnUqCW)
+- [Design Thinking by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt8B7nqDmAnJ7zL4H1BtLXQz)
+- [More by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt8TrM8LIBeCmGbY-yQUcGvt)
+- ...
 
 ### Responsibility
 
@@ -135,6 +198,10 @@ Dengan memiliki tanggung jawab atas tim, game designer dapat memastikan bahwa ga
 Game designer harus memutuskan bagaimana game akan dimainkan, bagaimana cerita akan dikembangkan, dan bagaimana karakter akan terlihat dan bertingkah. 
 
 Mereka harus memutuskan bagaimana game akan terlihat dan terasa, serta bagaimana game akan memberikan pengalaman yang menyenangkan bagi pengguna.
+
+Pelajari lebih lanjut:
+- [Making Decisions by GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt8trVc_gM3TFkKEeKSL7BHh)
+- ...
 
 ### History of Game
 
@@ -154,6 +221,10 @@ Ini dapat membantu game designer memahami bagaimana game-game terdahulu telah me
 
 Memahami sejarah game juga dapat membantu game designer memahami bagaimana game telah dipengaruhi oleh budaya dan sosial di sekitar mereka, dan bagaimana game telah mengalami perubahan seiring dengan perubahan budaya dan sosial. Ini dapat membantu game designer membuat keputusan yang tepat dalam pengembangan game mereka sendiri.
 
+Pelajari lebih lanjut:
+- [Games by CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
+- ...
+
 # Game
 
 Permainan adalah aktivitas pemecahan masalah yang dilakukan dengan suka cita. Beberapa kualitas yang penting untuk menentukan apakah suatu aktivitas merupakan permainan atau bukan adalah:
@@ -171,6 +242,10 @@ Permainan adalah aktivitas pemecahan masalah yang dilakukan dengan suka cita. Be
 
 Dengan memahami kualitas-kualitas tersebut, Anda sebagai game designer dapat memastikan bahwa game yang Anda buat memenuhi syarat-syarat untuk menjadi permainan yang menyenangkan bagi pemain.
 
+Pelajari lebih lanjut:
+- [The Art of Game Design by Jesse Schell](https://deck.artofgamedesign.com/)
+- ...
+
 ## Experience
 
 Game designer meciptakan experience. Tanpa experience, game tidak ada artinya.
@@ -180,6 +255,11 @@ Oleh karena itu, pengalaman yang diberikan oleh game merupakan hasil dari keputu
 Oleh karena itu, game designer memegang peran yang sangat penting dalam memberikan pengalaman yang menyenangkan bagi pengguna melalui game yang mereka kembangkan.
 
 Apa yang perlu kita lakukan untuk membuat game yang bisa menghasilkan pengalaman yang luar biasa, menarik, dan mudah diingat? Ada tiga ranah yang perlu dipelajari: psikologi, antropologi, dan desain.
+
+Pelajari lebih lanjut:
+- [Video Game Analysis by The Game Overanalyser](https://www.youtube.com/playlist?list=PL3Oap-xmdQ_AEDwM2nBZ7gkweRN7qsmc1)
+- [UX Talks by GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbbPWYLXCk8rnb32Y7WWnrzf)
+- ...
 
 ### World
 
@@ -317,6 +397,10 @@ Genre game dapat digunakan untuk membantu pemain memahami apa yang bisa diharapk
 
 # Player
 
+Pelajari lebih lanjut:
+- [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/)
+- ...
+
 ## Player's Mind
 
 Ada empat kemampuan mental utama yang memungkinkan permainan menjadi mungkin. Yaitu pemodelan, fokus, imajinasi, dan empati.
@@ -352,6 +436,10 @@ Beberapa elemen dari psikologi persepsi yang dapat mempengaruhi pengalaman pemai
 - Atensi: Bagaimana pemain memfokuskan perhatian mereka pada informasi yang relevan dalam game dan mengabaikan informasi yang tidak relevan.
 
 - Pengingat: Bagaimana pemain mengingat informasi yang telah mereka terima dari game dan bagaimana hal tersebut mempengaruhi cara mereka memainkan game di masa yang akan datang.
+  
+Pelajari lebih lanjut:
+- [Psikologi Persepsi dan Desain Informasi oleh Alizamar & Nasbahry Couto](https://opac.perpusnas.go.id/DetailOpac.aspx?id=1155457)
+- ...
 
 ## Demography
 
@@ -459,6 +547,10 @@ GDD (Game Design Document): GDD merupakan dokumen yang menjelaskan secara detail
 
 - Technical: Bagian ini menjelaskan tentang aspek teknis yang akan digunakan dalam game tersebut, termasuk engine yang akan digunakan, sistem kontrol, dan sebagainya.
 
+Pelajari lebih lanjut:
+- [How to Build Your First Game Design Document](https://www.gamedesigning.org/learn/game-design-document/)
+- ...
+
 ### Engineering
 
 Dokumen Engineering merupakan dokumen yang menjelaskan tentang bagaimana game tersebut akan diimplementasikan dari segi teknis. Dokumen ini biasanya terdiri dari beberapa bagian, seperti:
@@ -529,6 +621,11 @@ Tujuan dari tahap ini adalah untuk mengevaluasi prototype game tersebut, serta m
 
 ## Business
 
+Pelajari lebih lanjut:
+- [The Personal MBA Book by Josh Kaufman](https://joshkaufman.net/launch-the-personal-mba-book/)
+- [Business Talks by GDC](https://www.youtube.com/playlist?list=PL2e4mYbwSTbb7jHP_KptSl8BnAkBiaMU1)
+- ...
+
 ### Client
 
 Dalam dunia bisnis, istilah client merujuk pada perusahaan atau individu yang mempekerjakan seorang game designer untuk mengembangkan sebuah game. Game designer harus memahami kebutuhan dan harapan dari client, serta bekerja sesuai dengan ketentuan yang diberikan oleh client tersebut.
@@ -549,13 +646,25 @@ Proses iterasi dalam pengembangan game adalah proses pengembangan game yang teru
 
 Proses iterasi ini dilakukan dengan cara membuat prototype game, mengujinya, dan kemudian memperbaiki prototype game tersebut berdasarkan hasil testing. Proses iterasi ini terus diulang hingga game tersebut sesuai dengan yang diharapkan.
 
+Pelajari lebih lanjut:
+- [Developing by Game Maker's Toolkit](https://www.youtube.com/playlist?list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n)
+- ...
+
 ### Product Vision
 
 Product vision merupakan gambaran umum tentang apa yang diharapkan dari sebuah game. Product vision bisa berupa deskripsi singkat tentang gameplay, tema, dan tujuan game tersebut. Product vision sangat penting karena akan menjadi acuan dasar bagi seluruh tim dalam pengembangan game.
 
+Pelajari lebih lanjut:
+- [INSPIRED by Marty Cagan](https://books.google.co.id/books?id=0lU8DwAAQBAJ)
+- ...
+
 ### Agile Manifesto
 
 Agile manifesto merupakan seperangkat prinsip yang dianggap sebagai dasar dari pendekatan pengembangan game yang terus menerus (iteratif). Prinsip-prinsip dari agile manifesto antara lain: memfokuskan pada individu dan interaksi antar tim, mengaktifkan pembelajaran dan koreksi yang terus menerus, dan mengutamakan pembuatan produk yang terus menerus.
+
+Pelajari lebih lanjut:
+- [The Agile Coach by Atlassian](https://www.atlassian.com/agile)
+- ...
 
 ### Risk Assessment
 

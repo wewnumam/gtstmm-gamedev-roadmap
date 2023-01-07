@@ -1,5 +1,16 @@
 # Game Programmer Roadmap
 
+<table>
+  <tr>
+    <th>Roadmap</th>
+    <th>Table of contents</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/3WvcOw0.jpg" alt="game-programming-map"/>
+    </td>
+    <td>
+
 Table of contents
 - [Game Programmer Roadmap](#game-programmer-roadmap)
 - [Mathematics](#mathematics)
@@ -85,8 +96,14 @@ Table of contents
   - [Online Multiplayer](#online-multiplayer)
     - [Server](#server)
     - [Networking](#networking)
+</table>
 
 # Mathematics
+
+Pelajari lebih lanjut:
+- [Math for Game Developer by Jorge Rodriguez](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+- [Essential Mathematics For Aspiring Game Developers](https://www.youtube.com/watch?v=DPfxjQ6sqrc)
+- ...
 
 ### Matrices
 
@@ -110,6 +127,10 @@ Manipulasi skalar adalah proses mengubah nilai skalar (misalnya, ukuran, kecepat
 
 
 # Physics
+
+Pelajari lebih lanjut:
+- [Physics by CrashCourse](https://www.youtube.com/playlist?list=PL58rKAc12lkJZ_AEYekzyKqFtiFXPD2g8)
+- ...
 
 ### Kinematics
 
@@ -174,6 +195,10 @@ Sebagai game programmer, Anda perlu memahami Git dan Github untuk membantu Anda 
 
 Dengan memahami Git dan Github, Anda akan dapat mengelola dan mengontrol perubahan pada kode sumber game Anda dengan lebih efektif, serta memudahkan kerja tim dalam pengembangan game.
 
+Pelajari lebih lanjut:
+- [Git & Github	oleh Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+- ...
+
 # Programming
 
 ## Algorithm and Data Structure
@@ -191,6 +216,11 @@ Berikut ini adalah beberapa hal yang perlu Anda ketahui tentang algoritma dan st
 - Tree dan graph: Tree adalah struktur data yang terdiri dari node-node yang terhubung dengan pola hierarkis. Graph adalah struktur data yang terdiri dari node-node yang terhubung dengan pola tidak teratur. Tree dan graph biasa digunakan dalam pemrograman game untuk menyimpan dan mengelola data yang memiliki hubungan antar elemen.
 
 Dengan memahami algoritma dan struktur data, Anda akan dapat menyelesaikan masalah yang muncul dalam pengembangan game dengan lebih efektif, serta membuat program yang lebih cepat dan efisien.
+
+Pelajari lebih lanjut:
+- [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=CBYHwZcbD-s)
+- [Learn DS & Algorithms by Programiz](https://www.programiz.com/dsa)
+- ...
 
 ### Algorithm
 
@@ -260,7 +290,11 @@ Lua sering digunakan sebagai bahasa skrip dalam game. Lua adalah bahasa pemrogra
 
 Design pattern adalah pola atau cara umum yang sering digunakan untuk menyelesaikan masalah yang sama dalam pengembangan perangkat lunak. Design pattern membantu programmer menyelesaikan masalah dengan cara yang sudah teruji dan terbukti efektif, sehingga mempermudah proses pengembangan dan meningkatkan kualitas perangkat lunak.
 
-Design pattern dapat dikelompokkan menjadi tiga jenis, yaitu Creational, Structural, dan Behavioral. Pelajari lebih lanjut di [Refactoring Guru](https://refactoring.guru/design-patterns).
+Design pattern dapat dikelompokkan menjadi tiga jenis, yaitu Creational, Structural, dan Behavioral. 
+
+Pelajari lebih lanjut:
+- [Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns)
+- ...
 
 ### Creational
 
@@ -276,7 +310,9 @@ Behavioral design pattern adalah design pattern yang membantu programmer dalam m
 
 ## Game Patterns
 
-Baca selengkapnya di [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html).
+Pelajari lebih lanjut:
+- [Game Programming Patterns by Bob Nystrom](https://gameprogrammingpatterns.com/contents.html)
+- ...
 
 ### Sequence
 
@@ -289,6 +325,10 @@ Game patterns sequence berguna untuk membantu programmer mengelola kejadian atau
 ## Clean Code
 
 Clean code adalah kode yang mudah dipahami, mudah dibaca, dan mudah diubah. Clean code membantu programmer dalam mengelola proyek perangkat lunak dengan lebih efektif, sehingga mempermudah proses pengembangan dan meningkatkan kualitas perangkat lunak.
+
+Pelajari lebih lanjut:
+- [Clean Code	by Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+- [Code Complete by Steve McCinnell](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/)
 
 ### Meaningful Names
 
@@ -322,6 +362,9 @@ Selain itu, membaca dokumentasi juga membantu Anda dalam menyelesaikan masalah y
 
 Oleh karena itu, kemampuan membaca dokumentasi sangat penting bagi seorang game programmer agar dapat memahami cara kerja teknologi yang digunakan, serta menyelesaikan masalah yang muncul selama proses pengembangan game.
 
+Pelajari lebih lanjut:
+- [PROGRAMMING TIPS oleh Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIWFcpbvAFK4fDJdx75JrDds)
+- ...
 
 # Game Engine
 
@@ -363,6 +406,11 @@ Berikut ini adalah beberapa hal yang perlu Anda ketahui tentang Unity Engine seb
 
 - Unity Engine menyediakan fitur audio yang membantu programmer dalam mengelola suara dalam game. Anda perlu memahami cara menambahkan audio, mengatur volume audio, dan lain-lain.
 
+Pelajari lebih lanjut:
+- [Unity Learn by Unity](https://learn.unity.com/)
+- [Unity Beginner Tutorials by	Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+- ...
+
 ### Scripting
 
 Scripting adalah bagian dari Unity yang memungkinkan programmer untuk menulis kode untuk mengontrol game. Anda perlu memahami cara menulis kode di Unity dengan bahasa pemrograman C# atau UnityScript.
@@ -396,6 +444,10 @@ Behavior and AI adalah bagian dari Unity yang membantu programmer dalam mengelol
 Monetization adalah bagian dari Unity yang membantu programmer dalam mengelola cara mendapatkan uang dari game. Anda perlu memahami cara mengelola monetisasi dalam game, seperti menambahkan iklan, menjual item dalam game, dan lain-lain.
 
 # Game Physics
+
+Pelajari lebih lanjut:
+- [Physics for Game Developers](https://www.oreilly.com/library/view/physics-for-game/9781449361037/)
+- ...
 
 ## Rigid-Body Dynamics
 

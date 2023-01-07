@@ -52,7 +52,7 @@ Game designer sering bekerja sama dengan tim lain seperti artist, programmer, da
 
 Game designer juga harus terus memantau dan mengevaluasi game saat dikembangkan untuk memastikan bahwa itu terus sesuai dengan rencana awal dan memenuhi tujuan yang telah ditetapkan.
 
-[Selengkapnya ...](./game-design.md)
+[>>> SELENGKAPNYA <<<](./game-design.md)
 
 ---
 
@@ -75,7 +75,7 @@ Mereka menggunakan bahasa pemrograman untuk menulis kode ini dan bekerja sama de
 
 Game programmer juga bertanggung jawab untuk menyiapkan dan mengelola alat yang diperlukan untuk mengembangkan game, serta memahami bagaimana cara game bekerja dan bagaimana cara mengelola kinerja game.
 
-[Selengkapnya ...](./game-programming.md)
+[>>> SELENGKAPNYA <<<](./game-programming.md)
 
 ---
 
@@ -100,7 +100,7 @@ Visual artist juga harus memastikan bahwa aset yang diciptakan sesuai dengan des
 
 Visual artist sering bekerja sama dengan tim lain seperti game designer dan game programmer untuk memastikan bahwa game tersebut terlihat dan terasa seperti yang diharapkan. 
 
-[Selengkapnya ...](./visual-art.md)
+[>>> SELENGKAPNYA <<<](./visual-art.md)
 
 ---
 
@@ -153,6 +153,7 @@ Unity Learn | Unity | `Video`, `Artikel` | [Link](https://learn.unity.com/) | Be
 Game Programming Tutorials | freecodecamp.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) | Kumpulan tutorial pembuatan game dengan teknologi tertentu
 Unity Beginner Tutorials | Brackeys | `Video` | [Link](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) | Seri video tutorial Unity bagi pemula
 Gamedev Resources | What Up Games | `Artikel` | [Link](https://gamedev-resources.com/) | Tutorial pengembangan game yang mudah diikuti dan resource yang bermanfaat
+Programming Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW) | Kumpulan presentasi oleh pembicara di GDC
 Git & Github | Web Programming UNPAS | `Video` | [Link](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) | Seri video penggunaan version control system
 Math for Game Developer | Jorge Rodriguez | `Video` | [Link](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) | Seri video matematika dalam pengembangan game
 C# Full Course | Bro Code | `Video` | [Link](https://www.youtube.com/watch?v=wxznTygnRfQ) | Kursus lengkap C# bagi pemula (C# untuk Unity)
@@ -166,6 +167,7 @@ Code Complete | Steve McCinnell | `Buku` | [Link](https://www.oreilly.com/librar
 Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 So You Wanna Make Games? | Riot Games | `Video` | [Link](https://www.youtube.com/playlist?list=PL42m9XiTqPHIJbQZgzDhCyXtMOKNMrRno) | Pengantar bagi pemula untuk menjadi visual artist
+Art and Graphic Design Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTba88_D6lbTYwUa2YooFoUYe) | Kumpulan presentasi oleh pembicara di GDC
 Andrew Loomis Books | Andrew Loomis | `Buku` | [Link](https://archive.org/details/andrewloomiscreative.illustration) | Sedikit kompilasi Andrew Loomis untuk mempelajari dasar-dasar tentang cara menggambar.
 Lospec | Lospec | `Artikel` | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
 Graphic Design | gcflearnfree.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ) | Seri video dasar desain grafis
