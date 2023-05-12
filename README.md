@@ -121,12 +121,15 @@ Judul | Kreator | Media | URL | Deskripsi
 --- | --- | --- | --- | ---
 Skill Tree | Asosiasi Game Indonesia | `Video` | [Link](https://www.youtube.com/playlist?list=PLPSNeNN0QgnYEWgprpMpWUAY5lm9bQ6yV) | Perbincangan seputar industri game
 Press Start | Goethe-Institut Indonesien | `Video` | [Link](https://www.youtube.com/playlist?list=PL4cwFekjrnxe4GJpuCbed6XHvnw0O0TmQ) | Perbincangan seputar industri game
+Indigo Game Startup Incubation | Indigo Game | `Video` | [Link](https://www.youtube.com/playlist?list=PLM3Haan51l1L9pgJH6puzuTYPD1N8qoYe) | Materi bootcamp untuk IGSI 
+Gameseed Roadshow | Gameseed | `Video` | [Link](https://www.youtube.com/playlist?list=PLVUyIfQWnm-EnPV53GdCtNhkhA7aA5ELv) | Materi panelis untuk Gameseed Roadshow
 Game Dev Map | ilovegamedev | `Artikel` | [Link](https://www.gamedevmap.com/) | Peta dan katalog organisasi pengembangan game
 GameDeveloper.ID | GameDeveloper.ID | `Artikel` | [Link](https://www.gamedevmap.com/) | Resource berkaitan dengan informasi game development di Indonesia
 Game Industry Career Guide | Jason W. Bay | `Artikel` | [Link](https://www.gameindustrycareerguide.com/) | Pekerjaan video game dan resource karier Anda
 Career Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTba0iN9wm6k-SfVsQHjeuNxz) | Kumpulan presentasi oleh pembicara di GDC
 Extra Credits: Game Career | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A) | Pembicaraan perihal karir game
 Extra Credits: Game Industry | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BjqBfCTq5pgJsSFZShCxSU) | Pembicaraan perihal industri game
+An Introduction To Video Game Production | Derek Patterson | `Video` | [Link](https://www.udemy.com/course/an-introduction-to-video-game-production/) | Bagaimana game diproduksi
 The Complete Software Developer's Career Guide | John Sonmez | `Buku` | [Link](hhttps://simpleprogrammer.com/products/careerguide/) | Panduan karier lengkap pengembang perangkat lunak
 
 <br>
@@ -147,6 +150,9 @@ The Design of Everday Things | Donald Norman | `Buku` | [Link](https://en.wikipe
 Game Designing | GameDesigning.org | `Artikel` | [Link](https://www.gamedesigning.org/) | Belajar merancang video game
 Game Accessibility Guidelines | Collaborative Effort | `Artikel` | [Link](https://gameaccessibilityguidelines.com/) | Referensi langsung untuk desain game inklusif
 Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202) |  Jurnal internasional penelitian permainan komputer
+Game UI Database | Edd Coates | `Artikel` | [Link](https://www.gameuidatabase.com/) |  Alat bantu referensi utama bagi para perancang antarmuka
+GameDev.net | GameDev.net | `Artikel` | [Link](https://gamedev.net/) | Sumber daya bagi para pengembang game
+Development Stack Exchange | Stack Overflow | `Artikel` | [Link](https://gamedev.stackexchange.com/) | Situs tanya jawab untuk para pengembang game profesional dan independen
 
 <br>
 <h1 align="center">💻</h1>
@@ -169,6 +175,8 @@ Game Programming Patterns | Bob Nystrom | `Buku`, `Artikel` | [Link](https://gam
 Clean Code Notes | Robert C. Martin | `Artikel` | [Link](https://github.com/JuanCrg90/Clean-Code-Notes) | Panduan membuat kode bersih untuk efektifitas pengembangan dan organisasi kode
 Clean Code | Robert C. Martin | `Buku` | [Link](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) | Panduan membuat kode bersih untuk efektifitas pengembangan dan organisasi kode
 Code Complete | Steve McCinnell | `Buku` | [Link](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) | Secara luas dianggap sebagai salah satu panduan praktis terbaik untuk pemrograman
+Unity Script Collection | michidk | `Artikel` | [Link](https://michidk.github.io/Unity-Script-Collection/) | Koleksi script / library / plugin dan ekstensi unity yang berguna dan gratis
+Optimize Your Games In Unity | Awesome Tuts | `Artikel` | [Link](https://awesometuts.com/blog/optimize-unity-game/) | Panduan lengkap mengoptimalkan game Anda di Unity 
 
 <br>
 <h1 align="center">🎨</h1>
