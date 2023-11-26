@@ -35,7 +35,7 @@ Table of contents
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/lBvMA6l.jpg" alt="game-design-map"/>
+    <img src="https://mermaid.ink/img/pako:eNqNVttu2zgQ_RWBLysDdmDnZsdvTpzNFlhjkyZtgMIvY2kkzZoiBV6KqkH-vSN5i00sSi2fBM5QPHN45pAvItEpiqUoSaUlVFsV8TBau_gOSozWaClXaEaHQDNGP-fi_-eWS0q0ijOwUQaTClVCcmK8fLewGfETJoWiBGT0uCcpj8Lv_yOhcro6SmnGsyFHKu8G7o3-FxMXbUBBjiUq181p62phaKnzupuwAbPH8P-vfZoHQvGjztxvFGRLkhio52-yDlVwxxutKzTg6Ct2gx_5nKIb8BajlQJZW7KBJLSVVpZ2JMkFyl1jQpa04rr37yDEfzEsbepIZy1po77zLg55bzXS5PfqI-dgBemxNG6_caXE2sFBErEOUfisjUx7BcHldWMflEODlhn05pjd-Fa28rGDUBK_C2HZsLiARd6NPDY8dadXjKJgXQVW9Ak1fiqwHCaqAonOhQB-JutBBnD4lHQPURkkxxzdS6gdQ2fVDALJJNh9AMafOvE2ujPaVwHdPqy4eBvuw08WDnLuT_kJLnrwTcpbARys7Q6V6dd0Y4uTnQGVFG913fx1wPm4EzuOd1jyh402bLGDPPF2pEJ60tz-EBbxPZoEq24sXmOpcwNVUQ-fDUnXwdzaJKoUTUAjecCIbrx03hzr4x8WtYkO9Q-CaGibZE3vp3YUcjDZVm8LqkIOWZZeBa3t9uu7G2D0hFAOnt3x7vGaJfprH2AScQLShWhcrwO4VE4K2exCwl0ZF_Sx1Pf42DPIveMmyosj8B9ShOELlvLC7bzcBYBfN2JsfL3su2mddnUVDAabMr72lqu29tdScBRyrRtJwQudoWQUmieXdChx7WWq1fA9Xauk5zz_O4jGQoOHscpZC837gzImIWCmH8nuo5W1TMThfSLGokRTAqX8DHtpFmyFa8x9K5b8mWIG3F1bsVWvnAre6UeGJ5bOeBwLX6XgcE3AvV6KZQbS8mwFSixfxDexnF1enCym08X87OpycXV6cTYfi5qnF9OT89lidjq_vJhfnk9Pz1_H4rvW_IvpyXxxtphfXPHS0_PZ2dVsLDAlVsLm8FRsX4ztHl_aBe2erz8AQZ6nYQ?type=png" alt="game-design-map"/>
   </p>
   <p align="center">...<p>
 </p>
@@ -60,7 +60,7 @@ Game designer juga harus terus memantau dan mengevaluasi game saat dikembangkan 
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/3WvcOw0.jpg" alt="game-programming-map"/>
+    <img src="https://mermaid.ink/img/pako:eNqFV1Fv4jgQ_itR7iXVQkWBAuWthZbrHWyr0tuHEy-DYxIvjp1zHFi26t_YP3R_7MYO24PYsJaQ0HjGnvnmm_HkLSQypuEwzJiIM8gXIsClpNTRBDIaPCuZKMgyqi6qLbOiGeiUZqAZKQ7EwyEjUkQrKIIVNIt_SlC0aY5qAtcHembhCYoRWhxLx5RrCF5ZRo_lfwmmAxBxMCfAmUiCL5RoqerWslIaKVkUxvO4JLqmYw4AhdcLlpccI5DiIK7ndFeci4mUS1rUIvmTiT0UrtyVPkhFasGNJOesOHLELPT_K0bJ-CFI0QOXW5KC0id9zCu7ZszAZO4wbRN22szQoLlUIEh6oHPxM_8IenTsn2teAya65YlUTKeZzcoYMLVzrTAnparr1qgjFXImk6XQzTKvqZr1cbK7dXxNzaODaIIpiKSE5LwnK4TfF5vN22-u7A_YQEEUy7VH_9MnVzgtoebjmBYsEcEzaE2VKM66t7FlsC81n4uKWooDd_d-YuTbu6MpbJh09qIRpyCQsfF52JZY9ZnHnxlaI_arkgefsbsUrsZDKYjx2LP1tDS8PiyGFwrIK0nKjAptAz1J76WU60Ne2-Z2LxIs0uiUDYdcy9yX_smYbiiX-bF0-u-PL_dBe1zTlbHU9XaGeeH762vNQO184sh0wN1ZzE1v8kA-t2xE0N2tR5GXHp7eCpZZMG3ZzuSGGnhdvYmCPHUanI3v0eMHVnNcnVhijz3NOatz6zlhJk1D_V7r2VUm9437ZCoTLpe0CQWDepN6YQmLgzsZ74LxTkB23P7dk7bA14imB2lkI9f4dAVzljlPy0dXx9bNCPdRvz0O_nfG3e6c3x5JIagtHbdQPi6vUPISb__2IS1nyHfuhngMg5JkTbWvNTNFFKw8fJmnLC9sdu8k-Nwbgar2f0fOnTplUopK6f5bzmXhBXme4wNS1PsqgqcxPPeNd6PDQQh_ak2VZ3Qx61WWJDW1Rann_snz3Ju_MStyDp7kPWGFGuhfFZC1t1Zt-RywfiQzLF6qPqrwJPUzSBips37KknQ_UaUQy-3557gUvsZiDXGSyj2vmj0efXaGnciYHQ2T7n0Qfy0L7a0wgbbm8b7HF89fYC90xas68HQQyPMjdC9u4w1OPBTzmZ_D0E5cTSwKd8bBcl4xwjB5j0JTnOQSigf-onaW0hfeDEiKVwRTCko4LIiehHEA2yd2GUOjX6CIzXIr1bq5ZYrGvvxRhVXmyj9Xdvb-sBHi5J8Bi_EL4c3oLkIz-dNFOMS_MV0BerMIF-IdVaHUcr4TJBziaEEbYZnHoOm4mkPD4Qp4gdIcRDh8C7-Fw6ve9eWg1Rr0Oze9wU37utNvhDsUD1qX3avBVbvfu-73uq12970RfseBIhy2LvuDzqB_fdNttzutdrvba4Q0ZjgDzaqvGPsxY-_42xrYO9__AwTnacA?type=png" alt="game-programming-map"/>
   </p>
   <p align="center">...<p>
 </p>
@@ -83,7 +83,7 @@ Game programmer juga bertanggung jawab untuk menyiapkan dan mengelola alat yang 
 
 <p align="center">
   <p align="center">
-    <img src="https://i.imgur.com/Ypm7KuZ.jpg" alt="game-design-map"/>
+    <img src="https://mermaid.ink/img/pako:eNqFV01v2zgQ_SuCTi6QZB07iR3fnLhJAzRYb-0GRZELJY0t7pIcLT9Sq0H--w4VF2vLI1cHw-AbkuKbN2-o1zTHAtJJqqUptKieTUKPRfS9J-mCUMnUeun8h3cgPr0FaIle5m5ncDKROZreSrhkJU6dXBvhg4WdiPgsaFyuZC68RLMPxWdppShkzgClpeU96nofu0Wtg-lc7xaNQd8BzoDHZqiFZOI_BS1M3LEKHmzyYOhX5Pzac5l7pMOoP4i9Q_izNOtApBKFO7ROwfkSjvIKdZvRrrddhOxvoLd7AYaWoCg3Qh0iNxIVrolPBptmDhUdfR_5iyQifX0Y_tWww5-E1WgYYFFrDd4yyI1QwuTAptdb4VoEPwkVmOAH47yVxnHy-rjphGKalSImA8fJrfClsE46bs3KgnMH8ogCslCCcaxyPuqqFBxxf2YO7EtLr71bCzT0QlR3aiazJJDd8p1Z8YMEeGRCcGVLZkvISyP_5YglMQOXZ5-XtAuT6NzKLFM85mVV8dCNAlMcIEvkNl-UomAXWcImutI-cIdWJ8IUydxihZav6Du5ponJlrt9fA7WVV3FNoXoA0w-DSRzlIaxh-UP7IRKC53zboN9kcQeCMscAEmOJR0PzMEBFr5WzKt_Aart6FKc8K1HjqepkRo4Q9xA00oYxfvW-pSGnCrnMPKROoB9r3pkGKU05FDx6dv2skfQyFnMDHIZ6zF5FP_ssdObybX0NPN3RVOBORVqr03eW1GVMqfFYzvsnImNUZ8Gs7YYqg9tt1BoOeej4WQpMgVdIPlMJk3jF64rZu7qvIyO36JkWVe4jm9fszrSXOGyCroLhumQ0QLRST5Ti0pwXv9Z1Bha6nkowHi2y2yPJxR4D2yvydoKuhcakqlz4Dm6yOWp1wOTimganP2bF2nRaOAK9f7rA185TboaL3q6-9Z2OlTMPk8QbxrJVmtMwBdqkHAs4JfC59QmPOuaTPH2qApjscXRYzWRS3VqgwK7WxjDGZVyAepYPeUha191On1hjqpeo4n1vV2W90Y4gv9iYZEHVR3ScKT_ERN0swiN_ScLVLJI7gE77jIPmtpbLj3dz-yKhO7Ym1tBHb2xIz6qQwrDwpF_bTpaJ6fdR1GLw9HvN_ECwESHIsMN-8LOxxva1um4nf6PaWQGNj1JNVi6uxb07fEaJzyndPul3pFO6G8BK0G31Of02bxRqAgeF7XJ0wkxDSdpqArhYSYFuZROJyuhHI1WwqST13STTs6vLs_G_f54NLy-Gl8PLoejk7Sm4XH_7OJ8fD4YXV2Ori76g4u3k_QnIi3RPxuNh-PR5fXFYDDsDwYXVycpFJJq6_H9-6j5TGr2-N5MaPZ8-w-Lgl1u?type=png" alt="game-design-map"/>
   </p>
   <p align="center">...<p>
 </p>
@@ -125,6 +125,7 @@ Indigo Game Startup Incubation | Indigo Game | `Video` | [Link](https://www.yout
 Gameseed Roadshow | Gameseed | `Video` | [Link](https://www.youtube.com/playlist?list=PLVUyIfQWnm-EnPV53GdCtNhkhA7aA5ELv) | Materi panelis untuk Gameseed Roadshow
 Game Dev Map | ilovegamedev | `Artikel` | [Link](https://www.gamedevmap.com/) | Peta dan katalog organisasi pengembangan game
 GameDeveloper.ID | GameDeveloper.ID | `Artikel` | [Link](https://www.gamedevmap.com/) | Resource berkaitan dengan informasi game development di Indonesia
+Gimid | Gimid | `Artikel` | [Link](https://www.gimid.dev/) | Seputar game developement Indonesia
 Game Industry Career Guide | Jason W. Bay | `Artikel` | [Link](https://www.gameindustrycareerguide.com/) | Pekerjaan video game dan resource karier Anda
 Career Talks | GDC | `Video` | [Link](https://www.youtube.com/playlist?list=PL2e4mYbwSTba0iN9wm6k-SfVsQHjeuNxz) | Kumpulan presentasi oleh pembicara di GDC
 Extra Credits: Game Career | Extra Credits | `Video` | [Link](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A) | Pembicaraan perihal karir game
@@ -153,6 +154,8 @@ Game Studies | gamestudies.org | `Artikel` | [Link](http://gamestudies.org/2202)
 Game UI Database | Edd Coates | `Artikel` | [Link](https://www.gameuidatabase.com/) |  Alat bantu referensi utama bagi para perancang antarmuka
 GameDev.net | GameDev.net | `Artikel` | [Link](https://gamedev.net/) | Sumber daya bagi para pengembang game
 Development Stack Exchange | Stack Overflow | `Artikel` | [Link](https://gamedev.stackexchange.com/) | Situs tanya jawab untuk para pengembang game profesional dan independen
+Level Design Compendium | Vicente | `Artikel` | [Link](https://trello.com/b/AM3ZOmAd/level-design-compendium) | Kompendium desain level
+The Level Design Book | The Level Design Book | `Artikel` | [Link](https://book.leveldesignbook.com/) | Mengumpulkan pengetahuan desain level untuk video game 3D
 
 <br>
 <h1 align="center">💻</h1>
@@ -190,6 +193,7 @@ Andrew Loomis Books | Andrew Loomis | `Buku` | [Link](https://archive.org/detail
 Lospec | Lospec | `Artikel` | [Link](https://lospec.com/) | Tools dan resources gratis untuk orang yang membuat pixel art, voxel art, dan lainnya
 Graphic Design | gcflearnfree.org | `Video` | [Link](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ) | Seri video dasar desain grafis
 Pixel Art Guideline | studiominiboss.com | `Artikel` | [Link](https://blog.studiominiboss.com/pixelart) | Pedoman dan tutorial membuat pixel art
+Game Icons|  Game-icons.net | `Artikel` | [Link](https://game-icons.net/) | Ikon SVG dan PNG gratis untuk game atau aplikasi
 Game Artist | Random Guy on Youtube | `Video` | [Link](https://www.youtube.com/playlist?list=PLjQvLl-CzBWblQueHHMfUslCqkHvVxc6j) | Kumpulan video terkait game artist
 The Animator's Survival Kit | Richard Williams | `Buku` | [Link](https://en.wikipedia.org/wiki/The_Animator's_Survival_Kit) | Metode manual, prinsip, rumus klasik, game, stop motion, dan animator internet
 Blender Beginner Donut Tutorial| Blender Guru| `Video` | [Link](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) | Pelajari dasar-dasar Blender sambil membuat donat Anda sendiri.
